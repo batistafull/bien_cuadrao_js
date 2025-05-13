@@ -1,0 +1,29 @@
+{
+  "name": "bien_cuadrao_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batistafull/bien_cuadrao_js.git"
+  },
+  "keywords": [
+    "accounts",
+    "crm"
+  ],
+  "author": "Alberto Batista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/batistafull/bien_cuadrao_js/issues"
+  },
+  "homepage": "https://github.com/batistafull/bien_cuadrao_js#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "handlebars": "^4.7.8"
+  }
+}
