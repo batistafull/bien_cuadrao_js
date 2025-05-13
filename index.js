@@ -1,5 +1,5 @@
 import express from 'express';
-import Home from './src/Home/index.js';
+import Home from './src/Home/Home.js';
 
 const app = express();
 const port = 3000;
